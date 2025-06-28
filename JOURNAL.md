@@ -37,7 +37,7 @@ I think what I have should work and I'm happy how fast everything is going. Tomm
 
 **Total time spent: ~5h**
 ----------------------------------------------------------------------------
- June 28th: Lots of progress
+# June 28th: Lots of progress
 
 Today so far my life has been consumed by this project, and It's been rather fun. I'm only ending so early today because I have something I have to do in the "real world".
 
