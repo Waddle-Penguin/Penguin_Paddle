@@ -17,12 +17,12 @@ I knew that my requirements are:
 I thought at first I'd use the same MCU as I did in my MacroPad V1, a Seeedstudio Xiao RP2040 as it's very small and I've used it before, but made a mistake when grabbing the footprint and ended up using the Xiao SAMD21 which I though would work. I built up a schematic around that chip with two switches as placeholders for the paddles, two potentiometers to control WPM and volume. The volume will be coming through a piezo buzzer. I also added a framework that I think should work for the audio output. 
 
 ![Initial Schematic](<Initial Schematic Design.png>)
-^ The initial Schematic ^
+< The initial Schematic 
 
 I also made a bookmarks page on Firefox to track all of the important tabs I have and will be using
 
 ![Bookmarks](<Created some Bookmarks.png>)
-^ Le Bookmarks ^
+< Le Bookmarks 
 
 I then realized that I actually want the paddles to be activated by touch after I saw a video that did something similar (I had done some research into how everything work and some examples)
 
