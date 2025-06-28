@@ -1,8 +1,8 @@
 ---
-title: "Penguin Paddle"
-author: "James | Waddle_Penguin"
-description: "A touch sensitive morse code key"
-created_at: "2025-06-28"
+Title: "Penguin Paddle"
+Author: "James | Waddle_Penguin"
+Description: "A touch sensitive morse code key"
+Created On: "2025-06-28"
 ---
 
 # June 27/28th (It's 1:30AM): Work Work Work!
