@@ -65,3 +65,26 @@ I still need to:
 - and someday 3d model once my Apple pencil arrives (Should be soon), but I might have to sublit it before that
 
 **Total time spent: ~6.5h**
+------
+# June 29th: Why is this so hard
+
+I spent a lot of time today revising my PCB further, adding a way to add vertical pads in the future if I choose to, finding parts, making everything neater, just general touch-up. I think it looks a lot better now and had a much higher chanse of everyting working. 
+
+![Screenshot 2025-06-28 133224](https://github.com/user-attachments/assets/4a32271c-263b-4e87-9f8b-b66f84f53afe)
+![Screenshot 2025-06-29 225417](https://github.com/user-attachments/assets/aa617a32-a668-48aa-a0db-9cdeb27d8e5f)
+
+I've also done some initial work on the code but there isn't much to show yet. 
+
+Oh yeah I also got all the 3d models into the PCB and fixed an issue that would have broken my touch pads. 
+
+![Screenshot 2025-06-29 225659](https://github.com/user-attachments/assets/5cd908aa-847b-402d-94d5-3f4829351ddb)
+
+To-go:
+- Write the Code
+- Create BOM
+- Write README
+- Submit 3d Model (Apple Pencil still hasn't shipped)
+
+Honestly very worried about getting everything done because I have stuff to do next week, and therefore not sire if I'm going to be going to Undercity.
+**Time Spent: ~3.5 hours
+-----
