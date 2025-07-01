@@ -86,5 +86,19 @@ To-go:
 - Submit 3d Model (Apple Pencil still hasn't shipped)
 
 Honestly very worried about getting everything done because I have stuff to do next week, and therefore not sire if I'm going to be going to Undercity.
+
 **Time Spent: ~3.5 hours
+-------
+# June 30th
+
+Didn't do much today, was rather busy. Only thing I ended up doing was creating my BOM but I got to do a bit of learning about Markdown so it's all fin times.
+
+To-go:
+- Write the Code
+- Write README
+- Submit 3d Model (Apple Pencil Shipped!!!)
+- Submit Project
+
+**Time Spent: .5 hour
 -----
+
