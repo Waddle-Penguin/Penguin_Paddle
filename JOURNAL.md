@@ -93,6 +93,9 @@ Honestly very worried about getting everything done because I have stuff to do n
 
 Didn't do much today, was rather busy. Only thing I ended up doing was creating my BOM but I got to do a bit of learning about Markdown so it's all fin times.
 
+![Screenshot 2025-07-01 024233](https://github.com/user-attachments/assets/1ccd4da8-cca7-4c45-a23e-bd5891623104)
+The BOM in all it's glory
+
 To-go:
 - Write the Code
 - Write README
