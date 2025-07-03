@@ -2,7 +2,7 @@
 
 Hi everybody, this is the project I've been working on recently for Hackclub's Undercity. 
 
-Penguin Paddle is my own iambic morse code keyer that has multiple differrent output options, including a buzzer to make sound. It is designed with future expansion in mind with mounting holes and solder joints for potentially adding vertical pads in the future (Which will be printed as a snap-off section of my PCB), as well as a usb-c port for keyboard support. 
+Penguin Paddle is my own touch-sensitive iambic morse code keyer that has multiple differrent output options, including a buzzer to make sound. It is designed with future expansion in mind with mounting holes and solder joints for potentially adding vertical pads in the future (Which will be printed as a snap-off section of my PCB), as well as a usb-c port for keyboard support. 
 
 It uses two switches and two potentiometers to control all of the settings from on the board, so there is no challenge when trying to increase the speed of your keying or vice versa. It uses a piezo buzzer to make the sound and the volume is adjustable, and it has an overall On/Off switch. 
 
