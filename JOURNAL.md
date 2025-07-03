@@ -123,3 +123,18 @@ Almost there!!!
 
 **Time Spent: 4.5 hours
 ---
+# July 2nd
+
+It's done! (I think)
+
+My Aplle pencil arrived and I whipped up a fun little case that should work and I can print. It was very nice to be modelling again after awhile without (yes I should learn fusion). I also added another part onto the side of my PCB: the vertical touch pads. because of that I now have the choice of having my pads be flat or vertical. It took me far to long to figure out how to do mousears (The thing that connects the two PCBs)
+
+I also did some final organization of my files, and now there is only I project file in there. (I have no idea why there were two) I also finished my README and polished the Github repo (added description)
+
+Soooooooooo...
+
+To-Do:
+- Submit Project
+
+I'm very exited to go do that, this may be my final entry, thanks for reading!
+**Time Spent: ~3 hours**
