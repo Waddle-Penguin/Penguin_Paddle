@@ -9,7 +9,7 @@ It uses two switches and two potentiometers to control all of the settings from 
 I decided to make it because I've ben getting into morse code, and I had an idea a while beck to create my own keyer as I don't have one, so when I realized I needed to make a project for Highway to Undercity that would have grants for my hardware I was exited to realize this was the perfect oppurtunity to create it! Hopefully it should help me do what I am trying to do with morse code; connecting and sharing stories with people across the world with my own unique twist.
 
 Schematic Photos
-![Screenshot 2025-07-03 001130](https://github.com/user-attachments/assets/352c955a-dffb-48a2-b52b-7f1bd1cc3cac)
+![Screenshot 2025-07-03 001631](https://github.com/user-attachments/assets/96f580f6-f464-4034-bf2e-c4915ba0e847)
 
 PCB Photos:
 ![Screenshot 2025-07-03 001008](https://github.com/user-attachments/assets/e82d6817-1f7a-482b-a53f-79117945ed3b)
