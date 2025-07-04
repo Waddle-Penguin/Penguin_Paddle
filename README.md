@@ -37,4 +37,4 @@ Case Photos:
 | 1 | Custom PCB | For me: https://cart.jlcpcb.com/shopcart/cart |  $2.84 + $2.03 Shipping |
 
 + $8 Digikey Shipping
-# Total: ~$34
+# Total: ~$34 CAD / $25.05 USD
