@@ -2782,6 +2782,72 @@
 		(uuid "fbe42dc3-6073-4686-b7dd-0605c7eb8c79")
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 176.53 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0422044c-22d0-4221-a709-6ae3f991d376")
+		(property "Reference" "TP4"
+			(at 175.2599 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 177.038 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Custom:Copper Pad"
+			(at 181.61 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 176.53 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b815c74-ac4c-44f0-a68f-cbddcd2513ec")
+		)
+		(instances
+			(project "Penguin_Paddle"
+				(path "/cc5ba666-6b7d-4f47-b4d8-5ce0aaa3cb3c"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 124.46 77.47 270)
 		(unit 1)
@@ -2842,6 +2908,139 @@
 			(project "Penguin_Paddle"
 				(path "/cc5ba666-6b7d-4f47-b4d8-5ce0aaa3cb3c"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 170.18 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1a1cea46-4c87-4e9d-826c-289b2d376ab4")
+		(property "Reference" "TP3"
+			(at 168.9099 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 170.688 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Custom:Copper Pad"
+			(at 175.26 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 170.18 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eab418b9-aac8-413a-a9b1-4a937d4a3299")
+		)
+		(instances
+			(project "Penguin_Paddle"
+				(path "/cc5ba666-6b7d-4f47-b4d8-5ce0aaa3cb3c"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Socket")
+		(at 176.53 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1dd405ee-537e-4497-ae5f-30d3dd4e54b4")
+		(property "Reference" "J5"
+			(at 177.8 123.8249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01_Socket"
+			(at 177.8 126.3649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+			(at 176.53 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 176.53 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3f398f0-27d8-4cf1-83fc-6d7d6f2e6339")
+		)
+		(instances
+			(project "Penguin_Paddle"
+				(path "/cc5ba666-6b7d-4f47-b4d8-5ce0aaa3cb3c"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -4187,6 +4386,73 @@
 			(project ""
 				(path "/cc5ba666-6b7d-4f47-b4d8-5ce0aaa3cb3c"
 					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Socket")
+		(at 170.18 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2f82114-6c95-4bad-984f-f967df34050b")
+		(property "Reference" "J4"
+			(at 171.45 123.8249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01_Socket"
+			(at 171.45 126.3649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+			(at 170.18 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 170.18 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "501c4ddf-5698-47f4-99af-ab67691046f5")
+		)
+		(instances
+			(project "Penguin_Paddle"
+				(path "/cc5ba666-6b7d-4f47-b4d8-5ce0aaa3cb3c"
+					(reference "J4")
 					(unit 1)
 				)
 			)
