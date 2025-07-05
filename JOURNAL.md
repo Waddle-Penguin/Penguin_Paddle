@@ -104,4 +104,37 @@ To-go:
 
 **Time Spent: .5 hour
 -----
+# July 1st
 
+I'm so tired, I've been working on this for so long. Good progress though, I think I should be done tommorow!
+
+I just focused on tidying my files and writing the software today. I ended up using micropython and a bit of ChatGPT to create my software and I'm actually very happy with how good and simple it ended up being
+
+![Screenshot 2025-07-02 024901](https://github.com/user-attachments/assets/9a75c71c-ecc2-4ba0-8ee5-3d824769edad)
+
+I ended up having the most trouble with the timing, it was gard to figure out something I think will work with the WPM settings. I also left some sections commented out where future keyboard features could go, but I'm not sure if that's what I need as of now. I know this seems like I tiny entry for the amount of hours, but I really struggle trying to figure out how everything worked.
+
+To-go:
+- Write README
+- 3d Model? (Should be here tommorow so we shall see)
+- Submit Project
+
+Almost there!!!
+
+**Time Spent: 4.5 hours
+---
+# July 2nd
+
+It's done! (I think)
+
+My Aplle pencil arrived and I whipped up a fun little case that should work and I can print. It was very nice to be modelling again after awhile without (yes I should learn fusion). I also added another part onto the side of my PCB: the vertical touch pads. because of that I now have the choice of having my pads be flat or vertical. It took me far to long to figure out how to do mousears (The thing that connects the two PCBs)
+
+I also did some final organization of my files, and now there is only I project file in there. (I have no idea why there were two) I also finished my README and polished the Github repo (added description)
+
+Soooooooooo...
+
+To-Do:
+- Submit Project
+
+I'm very exited to go do that, this may be my final entry, thanks for reading!
+**Time Spent: ~3 hours**
