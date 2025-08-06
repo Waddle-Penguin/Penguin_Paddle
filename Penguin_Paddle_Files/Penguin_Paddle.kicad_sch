@@ -2543,6 +2543,16 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 87.63) (xy 224.79 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b6a8a3d-4858-4a82-8e6a-24bcfa3e97bb")
+	)
+	(wire
+		(pts
 			(xy 200.66 96.52) (xy 196.85 96.52)
 		)
 		(stroke
@@ -2660,6 +2670,16 @@
 			(type default)
 		)
 		(uuid "8dc1b44d-e0da-4429-bf09-8d54c8f8d312")
+	)
+	(wire
+		(pts
+			(xy 203.2 102.87) (xy 226.06 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "918ffc12-38a8-4a77-8cca-21c75eb82d17")
 	)
 	(wire
 		(pts
@@ -2783,7 +2803,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 176.53 120.65 0)
+		(at 231.14 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2791,7 +2811,7 @@
 		(dnp no)
 		(uuid "0422044c-22d0-4221-a709-6ae3f991d376")
 		(property "Reference" "TP4"
-			(at 175.2599 115.57 90)
+			(at 236.22 101.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2800,7 +2820,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 177.038 115.57 90)
+			(at 236.22 103.378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2809,7 +2829,7 @@
 			)
 		)
 		(property "Footprint" "Custom:Copper Pad"
-			(at 181.61 120.65 0)
+			(at 231.14 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2818,7 +2838,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 181.61 120.65 0)
+			(at 231.14 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2827,7 +2847,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 176.53 120.65 0)
+			(at 231.14 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2915,7 +2935,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 170.18 120.65 0)
+		(at 229.87 87.63 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2923,7 +2943,7 @@
 		(dnp no)
 		(uuid "1a1cea46-4c87-4e9d-826c-289b2d376ab4")
 		(property "Reference" "TP3"
-			(at 168.9099 115.57 90)
+			(at 234.95 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2932,7 +2952,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 170.688 115.57 90)
+			(at 234.95 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2941,7 +2961,7 @@
 			)
 		)
 		(property "Footprint" "Custom:Copper Pad"
-			(at 175.26 120.65 0)
+			(at 229.87 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2950,7 +2970,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 175.26 120.65 0)
+			(at 229.87 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2959,7 +2979,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 170.18 120.65 0)
+			(at 229.87 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2981,7 +3001,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 176.53 125.73 270)
+		(at 226.06 102.87 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2990,7 +3010,7 @@
 		(fields_autoplaced yes)
 		(uuid "1dd405ee-537e-4497-ae5f-30d3dd4e54b4")
 		(property "Reference" "J5"
-			(at 177.8 123.8249 90)
+			(at 227.9651 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2999,7 +3019,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Socket"
-			(at 177.8 126.3649 90)
+			(at 225.4251 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3008,7 +3028,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
-			(at 176.53 125.73 0)
+			(at 226.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3017,7 +3037,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 125.73 0)
+			(at 226.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3026,7 +3046,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 176.53 125.73 0)
+			(at 226.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4393,7 +4413,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 170.18 125.73 270)
+		(at 224.79 87.63 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4402,7 +4422,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2f82114-6c95-4bad-984f-f967df34050b")
 		(property "Reference" "J4"
-			(at 171.45 123.8249 90)
+			(at 226.6951 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,7 +4431,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Socket"
-			(at 171.45 126.3649 90)
+			(at 224.1551 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4420,7 +4440,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
-			(at 170.18 125.73 0)
+			(at 224.79 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4429,7 +4449,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 125.73 0)
+			(at 224.79 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4438,7 +4458,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 170.18 125.73 0)
+			(at 224.79 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -52,7 +52,10 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|205970000|129590000|37587f2d-2be9-409d-97df-4157bf154383|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|242560000|129315000|33748748-42bf-4172-a851-5652ed5b60c1|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -125,7 +128,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -466,7 +469,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Production/",
       "pos_files": "",
       "specctra_dsn": "Penguin_Paddle.dsn",
       "step": "",
