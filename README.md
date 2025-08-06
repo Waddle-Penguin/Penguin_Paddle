@@ -1,6 +1,9 @@
 # Penguin Paddle!
 
-**Total Time: ~21 Hours:**
+**Design Time: ~21 Hours**
+**Build Time: ~5 Hours**
+
+**Total Time: ~26 Hours:**
 
 Hi everybody, this is the project I've been working on recently for Hackclub's Undercity. 
 
@@ -40,3 +43,4 @@ Case Photos:
 
 + $8 Digikey Shipping
 # Total: ~$34 CAD / $25.05 USD
+
