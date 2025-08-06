@@ -1,10 +1,10 @@
-"Id";"Designator";"Footprint";"Quantity";"Value";"Digikey Link"
-1;"TP1,TP2";"Copper Pad";2;"TestPoint";N/A
-2;"J3,J1";"SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm";2;"Conn_01x01_Socket";N/A
-3;"Q1";"TO-92L_HandSolder";1;"NPN";https://www.digikey.ca/en/products/detail/onsemi/BC550CBU/975565
-4;"RV2,RV1";"Potentiometer_TT_P0915N";2;"R_Potentiometer";https://www.digikey.ca/en/products/detail/tt-electronics-bi/P0915N-EC15BR10K/4780755
-5;"U1";"XIAO-Generic-Thruhole-14P-2.54-21X17.8MM";1;"XIAO-ESP32-S3-DIP";https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/113991114/19285530
-6;"J2";"Jack_3.5mm_CUI_SJ1-3533NG_Horizontal";1;"AudioPlug3";https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/SJ1-3533NG/738701
-7;"LS1";"Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm";1;"PS1240P02BT";https://www.digikey.ca/en/products/detail/tdk-corporation/PS1240P02BT/935924
-8;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"1k";https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314
-9;"SW2,SW1";"SW_Slide_SPDT_Straight_CK_OS102011MS2Q";2;"SW_SPST";https://www.digikey.ca/en/products/detail/c-k/SS-12D07-VG-4-NS-GA-PA/2747177
+"Id","Designator","Footprint","Quantity","Value","Digikey Link"
+1,"TP1,TP2","Copper Pad",2,"TestPoint",N/A
+2,"J3,J1","SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm",2,"Conn_01x01_Socket",N/A
+3,"Q1","TO-92L_HandSolder",1,"NPN",https://www.digikey.ca/en/products/detail/onsemi/BC550CBU/975565
+4,"RV2,RV1","Potentiometer_TT_P0915N",2,"R_Potentiometer",https://www.digikey.ca/en/products/detail/tt-electronics-bi/P0915N-EC15BR10K/4780755
+5,"U1","XIAO-Generic-Thruhole-14P-2.54-21X17.8MM",1,"XIAO-ESP32-S3-DIP",https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/113991114/19285530
+6,"J2","Jack_3.5mm_CUI_SJ1-3533NG_Horizontal",1,"AudioPlug3",https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/SJ1-3533NG/738701
+7,"LS1","Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm",1,"PS1240P02BT",https://www.digikey.ca/en/products/detail/tdk-corporation/PS1240P02BT/935924
+8,"R1","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",1,"1k",https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314
+9,"SW2,SW1","SW_Slide_SPDT_Straight_CK_OS102011MS2Q",2,"SW_SPST",https://www.digikey.ca/en/products/detail/c-k/SS-12D07-VG-4-NS-GA-PA/2747177

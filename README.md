@@ -1,5 +1,7 @@
 # Penguin Paddle!
 
+**Total Time: ~21 Hours:**
+
 Hi everybody, this is the project I've been working on recently for Hackclub's Undercity. 
 
 Penguin Paddle is my own touch-sensitive iambic morse code keyer that has multiple differrent output options, including a buzzer to make sound. It is designed with future expansion in mind with mounting holes and solder joints for potentially adding vertical pads in the future (Which will be printed as a snap-off section of my PCB), as well as a usb-c port for keyboard support. 
@@ -12,9 +14,9 @@ Schematic Photos
 ![Screenshot 2025-07-03 001631](https://github.com/user-attachments/assets/96f580f6-f464-4034-bf2e-c4915ba0e847)
 
 PCB Photos:
-![Screenshot 2025-07-03 001008](https://github.com/user-attachments/assets/e82d6817-1f7a-482b-a53f-79117945ed3b)
-![Screenshot 2025-07-03 000936](https://github.com/user-attachments/assets/3d44899d-3d7a-4a4d-bfef-054540377b99)
-![Screenshot 2025-07-03 001031](https://github.com/user-attachments/assets/7e937ce9-1769-40c0-9ad6-2b2040b043dc)
+![Screenshot 2025-07-03 001008](https://github.com/user-attachments/assets/a10b6cdc-49d1-469c-aa6e-55508d83b93e)
+![Screenshot 2025-07-03 001031](https://github.com/user-attachments/assets/21e32f12-9003-4cfa-b986-deeddb4b5dff)
+![Screenshot 2025-07-03 000936](https://github.com/user-attachments/assets/a7e3634a-7428-4e9d-995d-33574fae862d)
 
 Case Photos:
 ![IMG_4678](https://github.com/user-attachments/assets/60da4510-70b7-4a6a-ac78-4f1f5823caf4)
