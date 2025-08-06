@@ -138,3 +138,13 @@ To-Do:
 
 I'm very exited to go do that, this may be my final entry, thanks for reading!
 **Time Spent: ~3 hours**
+
+# August 1st - 2nd:
+
+All of the parts of here and its finally time to build! I Assembled the PCB in about half an hour, which was actually really fun and some of my best soldering so far. 
+
+It then took a lot of time to inidually test each component and get them working how I wanted. I ended up with a big stream of data at the end, but it all worked out, but at some point I realized that I needed to switch the sublanguage I was using from circutpython to micropython for ease of typing keys like a keyboard. After a bit of fiddling though, everthing works! Despite having designed many projects in the past, this is the first one that I have fully built and I was so happy when I first got it working.
+
+I also picked up some non-slip pads from the store on they really help bring the whole thing together.
+
+**Time Spent: ~5 Hours**
